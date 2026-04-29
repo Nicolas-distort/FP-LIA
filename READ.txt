@@ -1,0 +1,1 @@
+To check the file. First go to https://app.diagrams.net/ and place the file there and it will load. Currently WIP. Probably gonna change this later before Friday
